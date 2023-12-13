@@ -2,7 +2,4 @@ Make soup
 clean the program
 buy the painting
 good order
-get the car
-buy plantsAnything
 added new item
-and lastly
